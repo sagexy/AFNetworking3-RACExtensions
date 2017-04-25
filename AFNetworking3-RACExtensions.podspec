@@ -34,7 +34,7 @@ TODO: Add long description of the pod here.
 
   s.subspec 'NSURLSession' do |ss|
     ss.dependency 'AFNetworking/NSURLSession', '~> 3.0'
-    ss.dependency 'ReactiveCocoa', '~> 2.0'
+    ss.dependency 'ReactiveObjC','~> 3.0'
     ss.source_files = 'AFNetworking3-RACExtensions/Classes/AFHTTPSessionManager+RACSupport.{h,m}'
   end
   

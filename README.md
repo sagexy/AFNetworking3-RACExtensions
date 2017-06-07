@@ -19,7 +19,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 ## Requirements
 
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) '~> 3.0'
-* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) '~> 2.0'
+* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveObjC) '~> 3.0'
 
 ## Installation
 
@@ -27,19 +27,13 @@ AFNetworking3-RACExtensions 目前没有提交到 [CocoaPods](http://cocoapods.o
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "AFNetworking3-RACExtensions", :git => 'https://github.com/MakeItEasy/AFNetworking3-RACExtensions.git', :tag => '0.1.0'
+pod "AFNetworking3-RACExtensions", :git => 'https://github.com/sagexy/AFNetworking3-RACExtensions.git', :tag => '0.1.1'
 ```
 
 ## TODOs
 
 * 添加示例代码
 * 提交到cocoapods库
-
-## Author
-
-MakeItEasy, rugang6891@gmail.com
-
-Blog: http://makeiteasy.github.io
 
 ## License
 

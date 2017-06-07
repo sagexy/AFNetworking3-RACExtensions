@@ -34,15 +34,7 @@ TODO: Add long description of the pod here.
 
   s.subspec 'NSURLSession' do |ss|
     ss.dependency 'AFNetworking/NSURLSession', '~> 3.0'
-    ss.dependency 'ReactiveObjC','~> 3.0'
+    ss.dependency 'ReactiveObjC'
     ss.source_files = 'AFNetworking3-RACExtensions/Classes/AFHTTPSessionManager+RACSupport.{h,m}'
   end
-  
-  # s.resource_bundles = {
-  #   'AFNetworking3-RACExtensions' => ['AFNetworking3-RACExtensions/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end

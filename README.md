@@ -19,7 +19,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 ## Requirements
 
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) '~> 3.0'
-* [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveObjC) '~> 3.0'
+* [ReactiveObjC](https://github.com/ReactiveCocoa/ReactiveObjC) '~> 3.0'
 
 ## Installation
 

@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/makeiteasy/AFNetworking3-RACExtensions'
+  s.homepage         = 'https://github.com/sagexy/AFNetworking3-RACExtensions'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sagexy' => 'sagexy@qq.com' }
   s.source           = { :git => 'https://github.com/sagexy/AFNetworking3-RACExtensions.git', :tag => s.version.to_s }
